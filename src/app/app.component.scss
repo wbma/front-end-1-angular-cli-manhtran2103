@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+}
+.main{
+    width: 50%;
+    margin: 20px;
+}
+.sidebar{
+    width: 40%;
+    margin: 20px;
+}
